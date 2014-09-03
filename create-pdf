@@ -1,0 +1,7 @@
+sudo apt-get install texlive
+latex From\ Singularity\ to\ Morality.tex
+latex From\ Singularity\ to\ Morality.tex
+dvips -Ppdf -G0 From\ Singularity\ to\ Morality.dvi
+ps2pdf From\ Singularity\ to\ Morality.ps 
+rm -f *.aux *.dvi *.log *.ps *.toc
+evince From\ Singularity\ to\ Morality.pdf 
