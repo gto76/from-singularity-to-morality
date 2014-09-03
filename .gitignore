@@ -1,1 +1,7 @@
-*.pdf *.aux *.dvi *.log *.ps *.toc *.swp
+*.pdf 
+*.aux 
+*.dvi 
+*.log 
+*.ps 
+*.toc 
+*.swp
