@@ -2,10 +2,4 @@ From Singularity to Morality
 ============================
 Few thoughts on nature of being. 
 
-How to create pdf:
-------------------
-```bash
-git clone https://github.com/gto76/from-singularity-to-morality.git
-cd from-singularity-to-morality
-./create-pdf
-```
+Text is in tex format, but also generated pdf file is included. New pdf can be generated with ./create-pdf command.
