@@ -1,0 +1,22 @@
+#!/bin/bash
+#
+# Usage: create-readme 
+# Creates README.md from the first two sections of the tex file.
+
+# Stops execution if any command fails.
+set -eo pipefail
+
+main() {
+  (echo "From Singularity to Morality"
+    echo -e "============================\n"
+    echo "From Object to Subject"
+    echo -e "----------------------\n"
+    echo "Ok, so Hegel says about basic ordinary Knowing that..."
+    cat "From Singularity to Morality.tex" \
+      | tail -n+24 \
+      | sed '/section{A little/Q' \
+      | sed 's/\[.*\]//g' \
+      | sed 's/^\\section.*$/Juda vs Buda\n------------/' ) > README.md 
+}
+
+main "$@"
