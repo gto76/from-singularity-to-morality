@@ -1,10 +1,10 @@
 From Singularity to Morality
 ============================
 
-From Object to Subject
-----------------------
+Ok...
 
-Ok, so Hegel says about basic ordinary Knowing that...
+So Hegel says about basic ordinary Knowing that...
+--------------------------------------------------
 
 So I lost it. Not enough of a frame for me, but nonetheless, let's not get too pessimistic. If we take into account pursuit of Hegel's philosophy to resolve everything to its end, how come it's still able to posses structure instead of crumbling into itself?
 
