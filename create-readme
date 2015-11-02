@@ -9,9 +9,9 @@ set -eo pipefail
 main() {
   (echo "From Singularity to Morality"
     echo -e "============================\n"
-    echo "From Object to Subject"
-    echo -e "----------------------\n"
-    echo "Ok, so Hegel says about basic ordinary Knowing that..."
+    echo -e "Ok...\n"
+    echo "So Hegel says about basic ordinary Knowing that..."
+    echo "--------------------------------------------------"
     cat "From Singularity to Morality.tex" \
       | tail -n+24 \
       | sed '/section{A little/Q' \
