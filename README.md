@@ -10,7 +10,7 @@ So I lost it. Not enough of a frame for me, but nonetheless, let's not get too p
 
 I think one must attribute this to the gaps; so this leads us to the figure-ground/chicken-or-the-egg problem; what is more important, what was first: the philosophy/structure/wissenschaft or the gaps/the incomprehensible?
 
-As interesting and absolute as this problem seems it may be of little importance in itself unless we can render it to something a bit more 'earthly'; for instance: How does it relate to morals/"primordial good/evil"?
+As interesting and absolute as this problem seems it may be of little importance in itself unless we can render it to something a bit more 'earthly'; for instance: How does it relate to morals/primordial good and evil?
 
 But to return to the notion of crumbling. When does the philosophy/wissenschaft begin to crumble into itself, and when is it standing; does it not all the time contain this crumbling (or at least the notion of it) in itself? Is not the concept of Now nothing but this crumbling into itself?
 
