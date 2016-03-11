@@ -6,7 +6,7 @@ Ok...
 So Hegel says about basic ordinary Knowing that...
 --------------------------------------------------
 
-And I lost it. Not enough of a frame for me, but nonetheless, let's not get too pessimistic. If we take into account pursuit of Hegel's philosophy to resolve everything to its end, how come it's still able to posses structure instead of crumbling into itself?
+And I lost it. Not enough of a frame for me, but nonetheless, let's not get too pessimistic. If we take into account the pursuit of Hegel's philosophy to resolve everything to its end, how come it's still able to posses structure instead of crumbling into itself?
 
 I think one must attribute this to the gaps; so this leads us to the figure-ground/chicken-or-the-egg problem; what is more important, what was first: the philosophy/structure/wissenschaft or the gaps/the incomprehensible?
 
